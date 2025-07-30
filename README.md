@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alim93593&label=Profile%20views&color=0e75b6&style=flat" alt="liwaapps" /> </p>
 - 🔭 I’m currently working on [muslimway](https://play.google.com/store/apps/details?id=com.quranapp.quarnapp)
 
-- 👨‍💻 All of my projects are available at [[https://github.com/liwaapps](https://github.com/alim93593/)]([[https://github.com/liwaapps](https://github.com/alim93593/)](https://github.com/alim93593/))
+- 👨‍💻 All of my projects are available at (https://github.com/alim93593/))
 
 - 💬 Ask me about **Flutter ,clean architecture, dependency injection**
 
-- 📫 How to reach me **liwaapps@gmail.com**
+- 📫 How to reach me **alihassan98304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
